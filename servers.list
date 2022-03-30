@@ -2,10 +2,10 @@ https://minfin.gov.ru:443
 https://minjust.gov.ru:443
 https://minenergo.gov.ru:443
 https://mintrud.gov.ru:443
-http://www.minsport.gov.ru:443
+http://www.minsport.gov.ru:80
 https://minstroyrf.gov.ru:443
 https://digital.gov.ru:443
-tcp//195.80.224.185:80
+tcp://195.80.224.185:80
 tcp://195.80.224.185:443
 tcp://95.173.157.26:80
 tcp://95.173.157.26:443
